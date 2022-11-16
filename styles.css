@@ -10,7 +10,7 @@
 
 body{
     font-size: 100%;
-    background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52  85.61%);
+    background: linear-gradient(68.15deg, #201b1b 16.62%, #02232c  85.61%);
 
 }
 
@@ -24,7 +24,7 @@ body{
 }
 
 .cabecalho-imagem{
-    height: 72px; 
+    height: 160px; 
 }
 .cabecalho-menu{
     display: flex;
